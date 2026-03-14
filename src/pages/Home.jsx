@@ -1,6 +1,6 @@
 import { Navbar } from "../Components/Navbar.jsx";
 import { ThemeToggle } from "../Components/ThemeToggle.jsx";
-import { StarBackground } from "..StarBackground.jsx";
+import { StarBackground } from "../Components/StarBackground.jsx";
 import { HeroSection } from "../Components/HeroSection.jsx";
 import { AboutSection } from "../Components/AboutSection.jsx";
 import { SkillsSection } from "../Components/SkillsSection.jsx";
