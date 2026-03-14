@@ -6,7 +6,7 @@ import { AboutSection } from "../Components/AboutSection.jsx";
 import { SkillsSection } from "../Components/SkillsSection.jsx";
 import { ProjectsSection } from "../Components/ProjectsSection.jsx";
 import { ContactSection } from "../Components/ContactSection.jsx";
-import { Footer } from "../components/Footer.jsx";
+import { Footer } from "../Components/Footer.jsx";
 
 export const Home = () => {
   return (
